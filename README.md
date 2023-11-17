@@ -1,5 +1,8 @@
 ### 專長
-🐶 vue
+:dog: vue
+
+### 信箱
+:mail: lin0968329658@gmail.com
 
 <!--
 **milkcoco/milkcoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
