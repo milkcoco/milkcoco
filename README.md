@@ -2,7 +2,7 @@
 :dog: 網頁設計
 
 ### 信箱
-:mailbox: lin0968329658@gmail.com
+:mailbox: lin0968329658@gmail.com <br/>
 :mailbox: 409401423@gapp.fju.edu.tw
 
 <!--
