@@ -2,8 +2,7 @@
 :dog: 網頁設計
 
 ### 信箱
-:mailbox: lin0968329658@gmail.com <br/>
-:mailbox: 409401423@gapp.fju.edu.tw
+:mailbox: 409401423@m365.fju.edu.tw
 
 <!--
 **milkcoco/milkcoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
